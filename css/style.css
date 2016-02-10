@@ -1,3 +1,6 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,300italic);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700);
 .container{
 	margin-top:6em;
 }
@@ -10,3 +13,60 @@
 .navbar-brand{
 	padding: 0;
 }
+
+.primary{
+	color:#00afec;
+	z-index: 999;
+}
+#top-list-header{
+  text-align: center;
+}
+#top-list-header-icon{
+    background-color: #FF5500;
+    width: 90px;
+    height: 90px;
+    margin: 0 auto;
+    border-radius: 100%;
+    border: 1px solid #dedede;
+    text-align: center;
+    -webkit-transition: .2s all;
+    -o-transition: .2s all;
+    transition: .2s all;
+    color: white;
+     
+}
+#icon-thumbs-up{
+  padding-top: 18%;
+}
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+h1 {
+  font-size: 52px;
+  line-height: 55px;
+    color: #262b31;
+    font-weight: 300;
+}
+h2 {
+  font-size: 38px;
+  font-weight: 200;
+}
+h3 {
+  font-size: 25px;
+}
+h4 {
+  font-size: 20px;
+}
+p {
+  font-size: 15px;
+}
+
